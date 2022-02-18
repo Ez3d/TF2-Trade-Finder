@@ -1,2 +1,3 @@
 # TF2-Trade-Finder
-Employs backpack.tf APIs and web scraping to automatically find profitable trading sequences
+An automatic trading script for TF2 items
+Uses backpack.tf APIs and web scraping to automatically find profitable trading sequences
